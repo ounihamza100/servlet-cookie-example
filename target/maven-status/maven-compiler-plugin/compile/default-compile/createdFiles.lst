@@ -1,2 +1,4 @@
-io\login\LoginServlet.class
-io\login\LogoutServlet.class
+io\login\v1\LoginServlet.class
+io\login\v2\LogoutServlet.class
+io\login\v2\LoginServlet.class
+io\login\v1\LogoutServlet.class

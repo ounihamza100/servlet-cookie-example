@@ -1,4 +1,4 @@
-package io.login;
+package io.login.v1;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
